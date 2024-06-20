@@ -1,1 +1,1 @@
-Curso git e GitHub PorQueDev
+Curso Git e GitHub PorQueDev
